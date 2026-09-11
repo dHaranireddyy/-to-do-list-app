@@ -1,0 +1,6 @@
+{
+  "name": "My Little World♡",
+  "description": "A private, cute, and aesthetic life dashboard combining live clock, daily journal, to-do list, dreams & goals, and personal growth analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
